@@ -27,8 +27,7 @@ I'm an  student who started coding in middle school out of curiosity. It began w
 </div>
 
 #
-<img src="https://raw.githubusercontent.com/7vibex/7vibex/main/snake.svg
-" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/7vibex/7vibex/main/snake.svg" alt="Snake animation" />
 
 
 ###
