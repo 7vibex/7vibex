@@ -30,6 +30,8 @@ I'm an  student who started coding in middle school out of curiosity. It began w
 <img src="https://raw.githubusercontent.com/7vibex/7vibex/output/snake.svg" alt="Snake animation" />
 
 
+
+
 ###
 
 
