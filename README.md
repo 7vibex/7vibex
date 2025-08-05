@@ -1,7 +1,7 @@
 # 7vibex
 
 **`7vibex (Programmer)`**
-I'm an  student in high school who started coding in middle school out of curiosity. It began with a love for games and an interest in hacking, which led me to explore Linux before switching back to Windows and learning C++. I quickly learned that coding is more than just syntax  it's a whole world of logic and problem-solving. Later, I got into web development with HTML, CSS, and JavaScript, building personal projects .
+I'm an  student in high school who started coding in middle school out of curiosity. It began with a love for games and an interest in PCs, which led me to explore Linux before switching back to Windows and learning C++. I quickly learned that coding is more than just syntax  it's a whole world of logic and problem-solving. Later, I got into web development with HTML, CSS, and JavaScript, building personal projects .
 
 
 ---
