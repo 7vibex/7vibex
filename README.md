@@ -1,6 +1,6 @@
 # 7vibex
 
-**`7vibex (Developer/Gym rat)`**
+**`7vibex (Programmer)`**
 I'm an  student who started coding in middle school out of curiosity. It began with a love for games and an interest in hacking, which led me to explore Linux before switching back to Windows and learning C++. I quickly learned that coding is more than just syntax  it's a whole world of logic and problem-solving. Later, I got into web development with HTML, CSS, and JavaScript, building personal projects .
 
 
