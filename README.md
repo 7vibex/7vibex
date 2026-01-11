@@ -36,11 +36,5 @@ I'm an  student in high school who started coding in middle school out of curios
 
 
 
-<!--
-<details>
- <summary><h3>7vibex Journey</h3></summary>
- I started my coding journey back in middle school as a student with a passion for games and a curiosity about how PCs work. At first, I got into Linux because I was fascinated by the idea of becoming a so-called "hacker." But eventually, I realized it was a bit too much for me at the time, so I switched back to Windows.
-
-That's when I started learning my first programming language: C++. I chose it because I had heard it was used to make games. After learning the basics, I thought that was it — that knowing the language was enough. But I quickly discovered there's a lot more to programming than just the language itself… and that became my nightmare (still is, to be honest :) ).
 
 Later, I moved on to web development and started learning HTML, CSS, and JavaScript. I practiced by creating cute little projects for my ex (you can see some of them on my profile). But eventually, she broke up with me  and here I am, still coding, still learning, and diving deeper into new languages. -->
