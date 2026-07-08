@@ -1,7 +1,7 @@
 # 7vibex
 
 **`7vibex (Programmer)`**
-I'm an  student in high school who started coding in middle school out of curiosity. It began with a love for games and an interest in PCs, which led me to explore Linux  .
+I'm an  student in high school who started coding in middle school out of curiosity. It began with a love for games and an interest in PCs, which led me to explore Linux and coding languages .
 
 
 ---
